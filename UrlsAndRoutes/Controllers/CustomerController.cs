@@ -9,7 +9,7 @@ namespace UrlsAndRoutes.Controllers
     public class CustomerController : Controller
     {
         // GET: Customer
-
+        //This is Customer Controller
         [Route("CustomerIndex")]
         //routes.MapMvcAttributeRoutes(); //used for Attribute routing, add in route.config starting before maproute
             //browser run /CustomerIndex
