@@ -9,6 +9,7 @@ namespace UrlsAndRoutes.Controllers
     public class HomeController : Controller
     {
         // GET: Home
+        //This is HomeController
         public ActionResult Index()
         {
             ViewBag.Controller = "Home";
